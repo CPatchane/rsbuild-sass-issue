@@ -8,8 +8,10 @@
     "preview": "rsbuild preview"
   },
   "devDependencies": {
+    "@drivy/cobalt": "^0.42.12",
     "@rsbuild/core": "^0.7.1",
     "@rsbuild/plugin-sass": "^0.7.1",
+    "rspack-manifest-plugin": "^5.0.0",
     "typescript": "^5.4.2"
   }
 }

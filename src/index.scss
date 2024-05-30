@@ -1,10 +1,8 @@
 @import "./test.css";
-$test-variable: $__INJECTED_THROUGH_RSPACK__;
-
 
 body {
   margin: 0;
-  color: $test-variable;
+  color: #fff;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   background-image: linear-gradient(to bottom, #020917, #101725);
 }
